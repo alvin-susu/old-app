@@ -8,6 +8,7 @@ export default new Router({
   routes: [
     {
       path: '/',
+      name: 'HelloWorld11111111',
       component: HelloWorld
     }
   ]
